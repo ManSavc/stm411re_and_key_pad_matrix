@@ -10,3 +10,4 @@ https://github.com/user-attachments/assets/ae0b1f76-2a10-40c1-96dc-530591d34a52
 ![Screenshot matrix](https://github.com/user-attachments/assets/1cbc7fe5-acda-4fc7-97dd-cd6fd0a2f49e)
 
 ![matrix connections](https://github.com/user-attachments/assets/35189634-eecb-4eb3-91e8-1a4eb7557ed4)
+![kicad schma](https://github.com/user-attachments/assets/6a34c34e-9c0b-49c2-9e6c-185007b5c688)
